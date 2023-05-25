@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div>Guten Morgen, Guten Tag, and Guten Abend, meine Freunde.
   </div>
 </template>
 
